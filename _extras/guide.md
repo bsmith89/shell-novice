@@ -72,8 +72,13 @@ In the case of the shell,
 this takes the form of pipelines rather than nested function calls,
 but the core idea of "small pieces, loosely joined" is the same.
 
-All of this material can be covered in three hours
-as long as learners using Windows do not run into roadblocks such as:
+Instructors frequently find that not all of this material can be covered in
+three hours with a novice audience.
+See below for a discussion on trimming the material to fit the time and
+learning style of your workshop.
+
+Also be aware that learners using Windows may run into roadblocks such
+as:
 
 *   not being able to figure out where their home directory is
     (particularly if they're using Cygwin);
@@ -117,6 +122,10 @@ as long as learners using Windows do not run into roadblocks such as:
     the topics and commands can be taught as given on the lesson pages.
     If you think there is a place where the lesson is lacking,
     feel free to file an issue or submit a pull request.
+
+### Teaching a subset of the material
+
+*   TODO
 
 ## Teaching Notes
 
